@@ -4,12 +4,12 @@ A supportive group chat application with an AI therapist (@chad) for heartbroken
 
 ## Features
 
-- 🔐 **Google OAuth Authentication** via Supabase
-- 💬 **Real-time Group Chat** with WhatsApp-style interface
-- 🤖 **AI Therapist (@chad)** powered by OpenAI GPT
-- 👑 **Admin Controls** for user management
-- 📱 **Mobile-friendly** responsive design
-- 🎨 **Modern UI** with soothing color scheme
+ **Google OAuth Authentication** via Supabase
+  **Real-time Group Chat** with WhatsApp-style interface
+  **AI Therapist (@chad)** powered by OpenAI GPT
+  **Admin Controls** for user management
+  **Mobile-friendly** responsive design
+  **Modern UI** with soothing color scheme
 
 ## Quick Setup
 
