@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+ local db schema
+
+supabase-schema.sql
+
+# hide README from git/GitHub
+README.md
+
+#md files
+README.md
